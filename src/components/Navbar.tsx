@@ -11,8 +11,8 @@ export const Navbar = () => {
         }}
       >
         <Link to="/">Homepage</Link>
-        <Link to="/About">About</Link>
         <Link to="/Menu">Menu</Link>
+        <Link to="/About">About</Link>
       </nav>
     </>
   );
